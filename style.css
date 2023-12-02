@@ -1,0 +1,21 @@
+body {
+  text-align: center !important;
+  background-color: cadetblue !important;
+}
+
+.container {
+  border: 2px solid gray !important;
+  border-radius: 10px !important;
+  height: 400px !important;
+  width: 400px !important;
+  display: grid !important;
+  padding: 10px;
+}
+button {
+  height: 50px;
+  width: 70px;
+  gap: 10px !important;
+  row-gap: 10px !important;
+  border: 2px solid gray !important;
+  border-radius: 10px !important;
+}
